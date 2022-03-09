@@ -1,4 +1,4 @@
-import requests as requests
+
 from aiogram import types
 
 from data.config import BOT_TOKEN
